@@ -1,0 +1,10 @@
+desafio:
+treinar um algoritmo de regressão linear para previsão de vendas de sorvete baseado em uma tabela gerada por IA  utilizando as colunas temperatura e sorvetes vendidos.
+
+o que foi feito:
+grupo de recursos,
+laboratório de ML da azure,
+uma instancia e um cluster,
+automl para gerar o algoritmo ótimo,
+endpoint para a geração de uma api.
+
